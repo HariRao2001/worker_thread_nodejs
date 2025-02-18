@@ -17,6 +17,6 @@ const server = http.createServer((req, res)=>{
     }
 });
 
-server.listen(3100, ()=>{
-    console.log(`Server is running at 3100 port`);
+server.listen(3300, ()=>{
+    console.log(`Server is running at 3300 port`);
 })
